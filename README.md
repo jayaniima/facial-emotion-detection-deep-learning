@@ -144,7 +144,7 @@ facial-emotion-detection/
 |
 ├── images/
 │   ├── class_distribution_training.png
-│   ├── training_accuracy.png
+│   ├── base_model_training_accuracy.png
 │   ├── training_loss.png
 │   └── confusion_matrix.png
 
