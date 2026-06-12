@@ -137,6 +137,7 @@ facial-emotion-detection/
 ├── README.md
 ├── requirements.txt
 ├── Facial_Emotion_Detection.ipynb
+├── Final Presentation.pptx
 |
 ├── images/
 │   ├── class_distribution_training.png
