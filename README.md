@@ -143,7 +143,7 @@ facial-emotion-detection/
 ├── Facial_Emotion_Detection.ipynb
 |
 ├── images/
-│   ├── class_distribution.png
+│   ├── class_distribution_training.png
 │   ├── training_accuracy.png
 │   ├── training_loss.png
 │   └── confusion_matrix.png
