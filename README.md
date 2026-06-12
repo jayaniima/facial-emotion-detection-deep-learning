@@ -123,13 +123,9 @@ The best-performing model was a custom CNN architecture consisting of:
 
 ![Training Accuracy](images/base_model_accuracy.png)
 
-### Training Loss
-
-![Training Loss](images/training_loss.png)
-
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix_base_model.png)
 
 ---
 
@@ -145,8 +141,7 @@ facial-emotion-detection/
 ├── images/
 │   ├── class_distribution_training.png
 │   ├── base_model_training_accuracy.png
-│   ├── training_loss.png
-│   └── confusion_matrix.png
+│   └── confusion_matrix_base_model.png
 
 ```
 
