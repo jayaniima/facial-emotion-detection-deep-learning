@@ -121,7 +121,7 @@ The best-performing model was a custom CNN architecture consisting of:
 
 ### Training Accuracy
 
-![Training Accuracy](images/training_accuracy.png)
+![Training Accuracy](images/base_model_accuracy.png)
 
 ### Training Loss
 
